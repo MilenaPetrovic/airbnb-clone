@@ -21,5 +21,5 @@ IDE for development was Visual Studio Code.
 ------
 ### Live preview
 
-Vercel platform is used for deploying the application and it can be accessed by clicking [here](https://airbnb-clone-tan.vercel.app/).
+Vercel platform is used for deploying the application and it can be accessed by clicking [here](https://airbnb-clone-4d2sk15tj-milenapetrovic.vercel.app/).
 
