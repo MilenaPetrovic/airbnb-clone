@@ -59,6 +59,7 @@ function Header({ placeholder }) {
           layout="fill"
           objectFit="contain"
           objectPosition="left"
+          alt="Airbnb"
         />
       </div>
 
